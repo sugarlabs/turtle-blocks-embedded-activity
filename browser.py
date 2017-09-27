@@ -67,7 +67,7 @@ _HOSTNAME_REGEX = re.compile('[a-z]+://([^/]+)/.*')
 DEFAULT_ERROR_PAGE = os.path.join(activity.get_bundle_path(),
                                   'data/error_page.tmpl')
 
-HOME_PAGE_GCONF_KEY = '/desktop/sugar/browser/home_page'
+HOME_PAGE_GCONF_KEY = '/desktop/sugar/music_blocks_browser/home_page'
 
 TAB_BROWSER = 'browser'
 TAB_PDF = 'pdf'
@@ -408,7 +408,7 @@ class TabbedView(BrowserNotebook):
             browser.load_uri('file://' + LIBRARY_PATH)
         else:
             default_page = os.path.join(activity.get_bundle_path(),
-                                        "data/index.html")
+                                        "musicblocks/index.html")
             browser.load_uri('file://' + default_page)
         browser.grab_focus()
 

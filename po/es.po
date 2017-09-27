@@ -39,8 +39,8 @@ msgstr ""
 "X-Poedit-Language: Spanish\n"
 
 #. TRANS: "name" option from activity.info file
-msgid "Browse"
-msgstr "Navegar"
+msgid "Music Blocks in Browse"
+msgstr "Bloques de música en Navegar"
 
 #. TRANS: "summary" option from activity.info file
 #. TRANS: "description" option from activity.info file
