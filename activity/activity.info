@@ -11,5 +11,5 @@ max_participants = 100
 license = GPL-2.0+
 metadata_license = CC0-1.0
 description: Launch the Music Blocks inside the Sugar Browse activity
-url = https://github.com/walterbender/mb-embedded
+repository = https://github.com/walterbender/mb-embedded
 screenshots = https://github.com/walterbender/musicblocks/blob/master/screenshots/Screenshot-1.png https://github.com/walterbender/musicblocks/blob/master/screenshots/Screenshot-2.png
