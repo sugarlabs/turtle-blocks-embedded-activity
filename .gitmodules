@@ -1,3 +1,6 @@
 [submodule "musicblocks"]
 	path = musicblocks
 	url = https://github.com/walterbender/musicblocks
+[submodule "collabwrapper"]
+	path = collabwrapper
+	url = https://github.com/samdroid-apps/collabwrapper
